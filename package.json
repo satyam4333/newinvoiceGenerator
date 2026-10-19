@@ -1,0 +1,11 @@
+{
+  "name": "jervish-business-suite",
+  "version": "2.0.0",
+  "description": "Free local-first invoice, quotation and business management app with real server-side PDF downloads",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "express": "^4.21.2",
+    "puppeteer": "^24.26.0"
+  }
+}
